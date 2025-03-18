@@ -20,7 +20,7 @@ Shepherds Purse
 Small-flowered Cranesbill
 Sugar beet
 
-#### Actionable Insights and Business Recommendations
+#### Insights and Recommendations
 
 Both models' performances indicate underfitting. Adding more convolutional layers or increasing the number of filters in existing layers to extract richer features might be helpful towards improving the models.
 
