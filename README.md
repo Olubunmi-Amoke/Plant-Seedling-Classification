@@ -7,18 +7,18 @@ The aim of this project is to Build a Convolutional Neural Network to classify p
 
 #### Data Dictionary
 **List of Species**:
-Black-grass
-Charlock
-Cleavers
-Common Chickweed
-Common Wheat
-Fat Hen
-Loose Silky-bent
-Maize
-Scentless Mayweed
-Shepherds Purse
-Small-flowered Cranesbill
-Sugar beet
+- Black-grass
+- Charlock
+- Cleavers
+- Common Chickweed
+- Common Wheat
+- Fat Hen
+- Loose Silky-bent
+- Maize
+- Scentless Mayweed
+- Shepherds Purse
+- Small-flowered Cranesbill
+- Sugar beet
 
 #### Insights and Recommendations
 
